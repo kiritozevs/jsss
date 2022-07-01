@@ -16,3 +16,6 @@ Some basic Git commands are:
 ```
 <sub>sub text</sub> <sup>sup text</sup>
 ```
+
+This site was built using [GitHub Pages](https://pages.github.com/).
+
