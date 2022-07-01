@@ -12,7 +12,7 @@
 > Text that is a quote
 
 
-Some basic Git commands are:
+Some basic [Git](https://pages.github.com/) commands are:
 ```
 <sub>sub text</sub> <sup>sup text</sup>
 ```
